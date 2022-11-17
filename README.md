@@ -1,4 +1,4 @@
-# Projeto de Automação da TSPRIME no framework Katalon
+# Projeto de Automação no framework Katalon
 # Projeto no Github: https://github.com/muchiute/projetoautomacao
 
 ## Descrição do Projeto
